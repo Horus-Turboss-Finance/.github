@@ -7,9 +7,8 @@
 </div>
 
 A l'avenir Cash Eyes va permettre la gestion de son patrimoine financier.
-Ce service est Open source pour vous inviter à l'avenir de participé à cette création.
-Vos dons sont la bienvenue pour me soutenir.
+Ce service est disponible gratuitement (uniquement à but personnel et non commercial) pour vous inviter à l'avenir de participé à cette création.
+Vos dons sont la bienvenue pour me soutenir dans mon travail.
 
-> Merci bien, je vous remercie.
-
+> Je vous remercie.
 Doc
