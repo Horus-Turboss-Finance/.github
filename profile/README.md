@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://avatars.githubusercontent.com/u/170715457?s=400&u=783cf2fd86f81d52ae4fc0c87f7cac07f925d473&v=4" alt="Cash Eyes logo" width="50px" />
+	<img src="https://avatars.githubusercontent.com/u/170715457?s=400&u=783cf2fd86f81d52ae4fc0c87f7cac07f925d473&v=4" alt="Cash Sight logo" width="50px" />
 </div>
 <div align="center">
     <h1>Cash Sight</h1>
