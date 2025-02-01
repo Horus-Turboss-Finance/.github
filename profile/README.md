@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <h1>Cash Sight</h1>
-    <a href="https://cashsight.fr/"> <img alt ="Status" src="https://img.shields.io/badge/Status-Under%20developpement-EFCB8C?style=for-the-badge"> </a>
+    <a href="https://cashsight.fr/"> <img alt ="Status" src="https://img.shields.io/badge/Status-Beta%20public-EFCB8C?style=for-the-badge"> </a>
     <br/>
     <a href="https://discord.gg/MM2b7kWjde"><img alt="Discord" src="https://img.shields.io/discord/1201514411559505961?color=blue&labelColor=292929&label=chat%20-%20discord&logo=discord&style=for-the-badge" /></a>
     <br/>
