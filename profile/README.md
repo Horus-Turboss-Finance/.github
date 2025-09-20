@@ -81,7 +81,8 @@ Vous êtes libres de l’utiliser, le modifier et le redistribuer, tant que la l
 Si vous aimez mon travail, vous pouvez me soutenir avec une petite donation. Je le fais de mon temps libre et avec mes économies, alors cela me fera très plaisir 🥺👉👈
 
 <br/>
-<a href="https://coff.ee/Horus.Turboss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<div align="center"><a href="https://coff.ee/Horus.Turboss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</div>
 
 ---
 
@@ -89,3 +90,4 @@ Si vous aimez mon travail, vous pouvez me soutenir avec une petite donation. Je 
     <p>Je vous remercie 🙏<br/>
     <strong>Horus – SEO</strong></p>
 </div>
+
